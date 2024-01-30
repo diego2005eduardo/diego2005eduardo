@@ -1,16 +1,26 @@
-### Hi there 👋
+# Bem-vindo ao Meu Perfil! 👋
 
-<!--
-**diego2005eduardo/diego2005eduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Me chamo Diego Eduardo, tenho 18 anos e moro no Rio de Janeiro. Sou um desenvolvedor iniciante com foco na área de back-end. Este é o meu espaço no GitHub, onde compartilho projetos e exploro diferentes tecnologias.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Desenvolvedor Iniciante
+- 🚀 Aprendendo e crescendo no mundo do desenvolvimento de software
+- 📚 Estudante autodidata com 2+ anos de experiência de aprendizado
+- 🌐 Experiência com TypeScript para o back-end (Node.js)
+- 🌟 Conhecimentos básicos de frontend com React/Next.js
+
+## Tecnologias Favoritas
+
+- 💻 TypeScript | JavaScript
+- 🚀 Node.js | React | Next.js
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=diego2005eduardo&show_icons=true&hide_border=true)
+
+## Como Entrar em Contato
+
+- 📧 E-mail: diego2005eduardo@gmail.com
+
+⭐️ Obrigado por visitar! ⭐️
